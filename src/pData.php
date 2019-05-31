@@ -56,8 +56,8 @@ class pData
 
 	function __construct()
 	{
-		$this->Data = "";
-		$this->DataDescription = "";
+		$this->Data = [];
+		$this->DataDescription = [];
 		$this->DataDescription["Position"] = "Name";
 		$this->DataDescription["Format"]["X"] = "number";
 		$this->DataDescription["Format"]["Y"] = "number";
