@@ -1,12 +1,12 @@
 {
-    "name": "realityking/pchart",
-    "description": "A fork of the popular pChart library.",
+    "name": "alejandro-fiore/pchart-1-27-for-php7",
+    "description": "pChart 1.27d from http://pchart.sourceforge.net/ for PHP 7",
     "license": "GPL-1.0+",
     "authors": [
         {
-            "name": "Rouven Weßling",
-            "email": "me@rouvenwessling.de",
-            "homepage": "http://www.rouvenwessling.de"
+            "name": "Alejandro Fiore",
+            "email": "alejandro@innovavista.net",
+            "homepage": "https://innovavista.net"
         }
     ],
     "autoload": {
