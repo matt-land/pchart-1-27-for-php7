@@ -128,7 +128,7 @@ class pData
 			}
 		}
 
-		if (count($Value) == 1) {
+		if (!is_array($Value) or count($Value) == 1) {
 			$this->Data[$ID][$Serie] = $Value;
 			if ($Description != "")
 				$this->Data[$ID]["Name"] = $Description;
