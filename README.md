@@ -3,7 +3,8 @@ pChart 1.27d from http://pchart.sourceforge.net/ for PHP 7
 
 ## Update for PHP 7.1
 
-``` // Parts like 
+``` 
+// Parts like 
 $Plots = "";
 $Plots[] = $X1;
 $Plots[] = $Y1;
