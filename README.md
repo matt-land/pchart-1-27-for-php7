@@ -15,6 +15,7 @@ $Plots[] = $Y1;
 ```
 
 Ressources:
+
 * *[Stackoverflow](https://stackoverflow.com/questions/5879675/problem-with-fatal-error-operator-not-supported-for-strings-in/5879729)*
 * *[PHP.net](https://www.php.net/manual/de/migration71.incompatible.php)*
   see "The empty index operator is not supported for strings anymore
