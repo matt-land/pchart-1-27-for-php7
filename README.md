@@ -21,4 +21,5 @@ Ressources:
   see "The empty index operator is not supported for strings anymore
 
 Also see (seems to be more mature then my quick and dirty fix)
+
 *https://github.com/milkyway-git/pChart/commit/f330e9bbc1ec79234b646e42a916a4d4493ea90e*
