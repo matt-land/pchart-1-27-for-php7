@@ -8,7 +8,7 @@ pChart 1.27d from http://pchart.sourceforge.net/ for PHP 7
 $Plots = "";
 $Plots[] = $X1;
 $Plots[] = $Y1;
-// have to be changed into
+// 1st line has to be changed into
 $Plots = array();
 $Plots[] = $X1;
 $Plots[] = $Y1;
